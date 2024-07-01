@@ -7,9 +7,21 @@ Put all the documentation for that here on github
 
 ## TO-DO:
 ### Chapter 1
+[] Read
+[] Problems
+[] Implement
 ### Chapter 2
+[] Read
+[] Problems
+[] Implement
 ### Chapter 3
+[] Read
+[] Problems
+[] Implement
 ### Chapter 4
+[] Read
+[] Problems
+[] Implement
 ### Chapter 5
 ### Chapter 6
 ### Chapter 7
