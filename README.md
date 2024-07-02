@@ -7,9 +7,8 @@ Put all the documentation for that here on github
 
 ## TO-DO:
 ### Chapter 1
-- [ ] Read
-- [ ] Problems
-- [ ] Implement
+- [x] Read
+- [x] Problems
 ### Chapter 2
 - [ ] Read
 - [ ] Problems
