@@ -6,7 +6,7 @@ Implement all the algorithms in a language to be decided
 Put all the documentation for that here on github
 
 ## TO-DO:
-### Chapter 1
+### Chapter 1 - Completed 07/02/2024 11:30am
 - [x] Read
 - [x] Problems
 ### Chapter 2
