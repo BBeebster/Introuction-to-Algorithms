@@ -9,10 +9,10 @@ Put all the documentation for that here on github
 ### Chapter 1 - Completed 07/02/2024 11:30am
 - [x] Read
 - [x] Problems
-### Chapter 2
-- [ ] Read
-- [ ] Problems
-- [ ] Implement
+### Chapter 2 - Completed 07/05/20204 2:15pm
+- [x] Read
+- [x] Problems
+- [x] Implement
 ### Chapter 3
 - [ ] Read
 - [ ] Problems
